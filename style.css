@@ -14,6 +14,7 @@
   box-sizing: border-box;
   padding: 10px;
   border: 5px solid yellow;
+  background: gray;
 }
 .input-search {
   display: block;
