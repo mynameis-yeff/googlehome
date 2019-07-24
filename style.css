@@ -2,7 +2,8 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 0;
+  height: 200px;
+  width: 240px;
 }
 .centered {
   text-align: center;
