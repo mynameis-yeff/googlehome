@@ -8,6 +8,7 @@
 .centered {
   text-align: center;
   color: blue;
+  font-family: Helvetica;
 }
 .input-search {
   display: block;
