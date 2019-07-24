@@ -4,10 +4,10 @@
   margin-right: auto;
   height: 200px;
   width: 240px;
-  color: blue;
 }
 .centered {
   text-align: center;
+  color: blue;
 }
 .input-search {
   display: block;
