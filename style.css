@@ -34,3 +34,6 @@ body {
 body, td, a, p, .h {
     font-family: arial,sans-serif;
 }
+#chiller {
+  font-family:"Chiller";
+  }
