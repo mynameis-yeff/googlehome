@@ -43,9 +43,12 @@ body, td, a, p, .h {
 #title {
   font-family: Impact;
   }
-ul {
- 
-  }
+ul { 
+  display: block;
+  display: inline;
+  background-color: purple;
+  color: white;
+   }
   li {
   display: block;
   display: inline;
