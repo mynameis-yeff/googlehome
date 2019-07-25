@@ -21,3 +21,15 @@
   margin-left: auto;
   margin-right: auto;
 }
+#google-logo {
+    padding-top: 109px;
+}
+body, html {
+    font-size: small;
+}
+body {
+    color: #222;
+}
+body, td, a, p, .h {
+    font-family: arial,sans-serif;
+}
