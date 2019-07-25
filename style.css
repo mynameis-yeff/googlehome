@@ -18,6 +18,7 @@ body {
   padding: 5px;
   border: 2px solid yellow;
   background: #d0d0d0;
+  width: 600px;
 }
 .input-search {
   display: block;
